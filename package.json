@@ -1,0 +1,21 @@
+{
+  "name": "@averagemarcus/sms-binary",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Encode/Decode binary SMS text for GSM 7 Bit alphabet",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "author": "Marcus Noble",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AverageMarcus/sms-binary.git"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
